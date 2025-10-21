@@ -40,6 +40,6 @@ Follow these steps to run Blogify locally 👇
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/Blogify.git
-cd Blogify
+git clone https://github.com/saiashish611999/Blog.git
+cd Blog
 ```
